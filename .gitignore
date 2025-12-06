@@ -1,0 +1,14 @@
+# Systèmes
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Sauvegardes automatiques PowerPoint (parfois créées par MS Office)
+~$*
+
+# Fichiers cachés des éditeurs
+.vscode/
+.idea/
